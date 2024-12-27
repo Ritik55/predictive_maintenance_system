@@ -1,0 +1,3 @@
+timestamp,device_id,device_type,temperature,vibration,pressure
+2023-01-01T00:00:00,device_1,pump,45.2,3.7,102.3
+2023-01-01T00:01:00,device_2,motor,62.8,5.1,98.6
